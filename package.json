@@ -1,0 +1,25 @@
+{
+  "name": "overwatch-hero-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjunghoo/overwatch-hero-select.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjunghoo/overwatch-hero-select/issues"
+  },
+  "homepage": "https://github.com/jjunghoo/overwatch-hero-select#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.45.1"
+  }
+}
